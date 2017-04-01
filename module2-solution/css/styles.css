@@ -1,0 +1,254 @@
+*{
+	box-sizing: border-box;
+}
+h1{
+	text-align: center;
+	font-size: 75% large, 25%larger;
+	font-family: "TimeNewRoman"
+}
+#section1{
+	background-color: #F0F8FF;
+	clear: both;
+	position: relative;
+	border: 1px solid black;
+	margin: 4%;
+	width: 25%;
+	display: inline-block;
+	text-align:justify;
+	font-family: "TimeNewRoman"
+}
+#text1{
+	background-color: #F08080;
+	position: relative;
+	border: 1px solid black;
+	text-align: center;
+	width: 15%;
+	margin-left: 85%;
+	font-family: "TimeNewRoman"
+}
+#section2{
+	background-color: #F0F8FF;
+	clear: both;
+	position: relative;
+	border: 1px solid black;
+	margin: 4%;
+	width: 25%;
+	display: inline-block;
+	text-align:justify;
+	font-family: "TimeNewRoman"
+}
+#text2{
+	background-color: #FF7F50;
+	position: relative;
+	border: 1px solid black;
+	text-align: center;
+	width: 15%;
+	margin-left: 85%;
+	font-family: "TimeNewRoman"
+}
+#section3{
+	background-color: #F0F8FF;
+	clear: both;
+	border: 1px solid black;
+	position: relative;
+	margin: 4%;
+	width: 25%;
+	display: inline-block;
+	text-align:justify;
+	font-family: "TimeNewRoman"
+}
+#text3{
+	background-color: #00FFFF;
+	position: relative;
+	border: 1px solid black;
+	text-align: center;
+	width: 15%;
+	margin-left: 85%;
+	font-family: "TimeNewRoman"
+}
+@media (min-width: 992px){
+	#section1{
+		background-color: #F0F8FF;
+		clear: both;
+		position: relative;
+		border: 1px solid black;
+		margin: 3%;
+		width: 26%;
+		display: inline-block;
+		text-align:justify;
+		font-family: "TimeNewRoman"
+	}
+	#text1{
+		background-color: #F08080;
+		position: relative;
+		border: 1px solid black;
+		text-align: center;
+		width: 25%;
+		margin-left: 75%;
+		font-family: "TimeNewRoman"
+	}
+	#section2{
+		background-color: #F0F8FF;
+		clear: both;
+		position: relative;
+		border: 1px solid black;
+		margin: 3%;
+		width: 26%;
+		display: inline-block;
+		text-align:justify;
+		font-family: "TimeNewRoman"
+	}
+	#text2{
+		background-color: #FF7F50;
+		position: relative;
+		border: 1px solid black;
+		text-align: center;
+		width: 25%;
+		margin-left: 75%;
+		font-family: "TimeNewRoman"
+	}
+	#section3{
+		background-color: #F0F8FF;
+		clear: both;
+		border: 1px solid black;
+		position: relative;
+		margin: 3%;
+		width: 26%;
+		display: inline-block;
+		text-align:justify;
+		font-family: "TimeNewRoman"
+	}
+	#text3{
+		background-color: #00FFFF;
+		position: relative;
+		border: 1px solid black;
+		text-align: center;
+		width: 25%;
+		margin-left: 75%;
+		font-family: "TimeNewRoman"
+	}
+}
+@media (min-width: 768px) and (max-width: 991px){
+	#section1{
+		background-color: #F0F8FF;
+		clear: both;
+		position: relative;
+		border: 1px solid black;
+		margin: 3%;
+		width: 40%;
+		display: inline-block;
+		text-align:justify;
+		font-family: "TimeNewRoman"
+	}
+	#text1{
+		background-color: #F08080;
+		position: relative;
+		border: 1px solid black;
+		text-align: center;
+		width: 28%;
+		margin-left: 72%;
+		font-family: "TimeNewRoman"
+	}
+	#section2{
+		background-color: #F0F8FF;
+		clear: both;
+		position: relative;
+		border: 1px solid black;
+		margin: 3%;
+		width: 40%;
+		display: inline-block;
+		text-align:justify;
+		font-family: "TimeNewRoman"
+	}
+	#text2{
+		background-color: #FF7F50;
+		position: relative;
+		border: 1px solid black;
+		text-align: center;
+		width: 28%;
+		margin-left: 72%;
+		font-family: "TimeNewRoman"
+	}
+	#section3{
+		background-color: #F0F8FF;
+		clear: both;
+		border: 1px solid black;
+		position: relative;
+		margin: 3%;
+		width: 87%;
+		display: inline-block;
+		text-align:justify;
+		font-family: "TimeNewRoman"
+	}
+	#text3{
+		background-color: #00FFFF;
+		position: relative;
+		border: 1px solid black;
+		text-align: center;
+		width: 14%;
+		margin-left: 86%;
+		font-family: "TimeNewRoman"
+	}
+}
+@media (max-width: 767px){
+	#section1{
+		background-color: #F0F8FF;
+		clear: both;
+		position: relative;
+		border: 1px solid black;
+		margin: 3%;
+		width: 93%;
+		display: inline-block;
+		text-align:justify;
+		font-family: "TimeNewRoman"
+	}
+	#text1{
+		background-color: #F08080;
+		position: relative;
+		border: 1px solid black;
+		text-align: center;
+		width: 17%;
+		margin-left: 83%;
+		font-family: "TimeNewRoman"
+	}
+	#section2{
+		background-color: #F0F8FF;
+		clear: both;
+		position: relative;
+		border: 1px solid black;
+		margin: 3%;
+		width: 93%;
+		display: inline-block;
+		text-align:justify;
+		font-family: "TimeNewRoman"
+	}
+	#text2{
+		background-color: #FF7F50;
+		position: relative;
+		border: 1px solid black;
+		text-align: center;
+		width: 17%;
+		margin-left: 83%;
+		font-family: "TimeNewRoman"
+	}
+	#section3{
+		background-color: #F0F8FF;
+		clear: both;
+		border: 1px solid black;
+		position: relative;
+		margin: 3%;
+		width: 93%;
+		display: inline-block;
+		text-align:justify;
+		font-family: "TimeNewRoman"
+	}
+	#text3{
+		background-color: #00FFFF;
+		position: relative;
+		border: 1px solid black;
+		text-align: center;
+		width: 17%;
+		margin-left: 83%;
+		font-family: "TimeNewRoman"
+	}
+}
